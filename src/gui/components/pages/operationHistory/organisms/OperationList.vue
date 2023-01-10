@@ -26,6 +26,7 @@
       <auto-operation-register-button v-if="!isViewerMode" />
     </v-layout>
     <v-layout
+    
       align-space-around
       justify-end
       column
